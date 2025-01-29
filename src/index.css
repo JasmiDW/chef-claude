@@ -97,3 +97,14 @@ nav{
     max-width: 400px;
   }
 }
+h2{
+  margin: 10px;
+  text-decoration: underline;
+}
+ul{
+  font-size: 18px;
+  ::marker{
+    font-size: 20px;
+    color: rgb(212, 137, 26);
+  }
+}
