@@ -7,12 +7,6 @@ export default function Header(){
                 <img src={logo} alt="logo"></img>
                 <h1>Chef Claude</h1>
             </nav>
-            <div className='div-ingredient'>
-                <input></input>
-                <button>+ Ajouter un ingrédient</button>
-            </div>
-            
-
         </>
         
     )
